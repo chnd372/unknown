@@ -3,10 +3,10 @@ services:
   worker:
     build: .
     environment:
-      REDIS_URI: $REDIS_URI
-      REDIS_PASSWORD: $REDIS_PASSWORD
+      REDIS_URI: $redis-14834.c1.ap-southeast-1-1.ec2.cloud.redislabs.com:14834
+      REDIS_PASSWORD: $Sj8CF9C0PjjHEHsy74r9m6AaYrR5JX1p
       SESSION: $SESSION
-      API_ID: $API_ID  # defaults to None
-      API_HASH: $API_HASH  # defaults to None
-      MONGO_URI: $MONGO_URI  # defaults to None
-      DATABASE_URL: $DATABASE_URL  # defaults to None
+      API_ID: $6671644  # defaults to None
+      API_HASH: $b3c2aeac6c992619df80ebb2663efd64  # defaults to None
+      MONGO_URI: $mongodb+srv://Chandra372:123@cluster0.wbn2m.mongodb.net/?retryWrites=true&w=majority  # defaults to None
+      DATABASE_URL: $postgresql://postgres:MYT3vaA2IdV8zw1RnY5Z@containers-us-west-42.railway.app:5607/railway  # defaults to None
