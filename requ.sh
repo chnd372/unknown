@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env paste config env url
-wget -O token.pickle https://github.com/yourusername/reponame/raw/main/token.pickle
+wget -O config.env https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/config.env
+wget -O token.pickle https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/token.pickle
 rin
 bash sta*
 
