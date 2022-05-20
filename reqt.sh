@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/config.env
-wget -O token.https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/token.pickle 
+wget -O config.env https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/config.env
+wget -O token.pickle token.https://github.com/chnd372/MIRROR-HUNTER/blob/qbit/token.pickle 
 rin
 bash sta*
 
